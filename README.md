@@ -20,6 +20,8 @@ echo "FastAPI is a modern, fast Python web framework." > workspace/fastapi_notes
 
 python main.py "Summarize what FastAPI is and suggest a deployment plan."
 ```
+📊 **[View Performance Benchmarks](METRICS.md)**
+
 
 ## Notes
 - If no OpenAI key is set, you still get a working pipeline with a deterministic summarizer (template-based).
